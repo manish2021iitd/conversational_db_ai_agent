@@ -83,7 +83,7 @@ Open `notebooks/colab_demo.ipynb` (or upload to Colab) for a fully runnable demo
 - *Who is Manish’s bank and what is his KYC status?* (definition + join)
 - *Show me all customers*
 
-## Porotype
+
 <img width="1342" height="695" alt="Screenshot 2025-08-26 at 11 49 01 PM" src="https://github.com/user-attachments/assets/2ff00b22-b715-4b1d-8ced-7d40219bc8fb" />
 
 
@@ -93,6 +93,7 @@ The Streamlit sidebar summarizes:
 - Data coverage and gaps (e.g., missing KYC, frozen accounts, sparse merchants).
 - User sentiment and intent mix over the session.
 - Suggested data to collect next.
+<img width="1342" height="695" alt="Screenshot 2025-08-26 at 11 51 28 PM" src="https://github.com/user-attachments/assets/811ae595-4f5a-4644-a52d-47bff70a9055" />
 
 ## Secondary plans 
 
