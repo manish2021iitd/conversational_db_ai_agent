@@ -81,6 +81,11 @@ Open `notebooks/colab_demo.ipynb` (or upload to Colab) for a fully runnable demo
 - *Compare average balance between savings and current accounts.*
 - *Total refunds for customers in Mumbai with risk_score > 0.7.*
 - *Who is Manish’s bank and what is his KYC status?* (definition + join)
+- *Show me all customers*
+
+## Porotype
+<img width="1342" height="695" alt="Screenshot 2025-08-26 at 11 49 01 PM" src="https://github.com/user-attachments/assets/2ff00b22-b715-4b1d-8ced-7d40219bc8fb" />
+
 
 ## World Model Insights Dashboard
 
