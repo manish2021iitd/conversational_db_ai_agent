@@ -96,13 +96,6 @@ The Streamlit sidebar summarizes:
 - Suggested data to collect next.
 <img width="1342" height="695" alt="Screenshot 2025-08-26 at 11 51 28 PM" src="https://github.com/user-attachments/assets/811ae595-4f5a-4644-a52d-47bff70a9055" />
 
-## Secondary plans 
-
-If limited on time, see **docs in README bottom** for how to extend with:
-- RAG over schema docs and business glossary.
-- Advanced agentic reasoning with toolformer-like self-queries.
-- Query optimization via index suggestions & explain plans.
-- Better voice UX, diarization, and non-English support.
 
 ### What I'd build next (brief ideas)
 - Add Guardrails for PII masking and rate limiting.
