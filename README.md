@@ -89,7 +89,7 @@ The Streamlit sidebar summarizes:
 - User sentiment and intent mix over the session.
 - Suggested data to collect next.
 
-## Secondary/Bonus plan (design writeup)
+## Secondary plans 
 
 If limited on time, see **docs in README bottom** for how to extend with:
 - RAG over schema docs and business glossary.
