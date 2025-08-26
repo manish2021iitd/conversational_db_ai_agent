@@ -1,5 +1,4 @@
-# Conversational Database Agent (MongoDB, Finance Domain)
-
+# Conversational Database AI Agent 
 An end-to-end conversational agent that understands natural language questions about a **real MongoDB** finance-like database, translates them into MongoDB queries, executes them across **multiple collections**, maintains **conversation context**, and returns clear answers with **insights** (data gaps, sentiment, intent).
 
 ## Features
