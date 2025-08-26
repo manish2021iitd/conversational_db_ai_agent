@@ -4,12 +4,14 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from dotenv import load_dotenv
 import pandas as pd
+import certifi  # added
 
 load_dotenv()
 
 def get_client() -> MongoClient:
     uri = os.getenv("MONGODB_URI", "mongodb://localhost:27017")
-    return MongoClient(uri, serverSelectionTimeoutMS=4000)
+    # Force MongoClient to use certifi's trusted certificates
+    return MongoClient(uri, serverSelectionTimeoutMS=4000, tlsCAFile=certifi.where())
 
 def get_db():
     client = get_client()
