@@ -86,6 +86,7 @@ Open `notebooks/colab_demo.ipynb` (or upload to Colab) for a fully runnable demo
 
 <img width="1342" height="695" alt="Screenshot 2025-08-26 at 11 49 01 PM" src="https://github.com/user-attachments/assets/2ff00b22-b715-4b1d-8ced-7d40219bc8fb" />
 
+<img width="952" height="654" alt="Screenshot 2025-08-26 at 11 56 56 PM" src="https://github.com/user-attachments/assets/c5d5d3c9-e497-4862-b9a0-a36b799c5e23" />
 
 ## World Model Insights Dashboard
 
